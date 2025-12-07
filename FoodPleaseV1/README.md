@@ -42,7 +42,7 @@ La V1 corresponde al **primer prototipo funcional**, usado como base para contin
 ---
 
 ## 📂 Estructura del Proyecto (V1)
-
+```
 /lib
 ├── database.dart
 ├── editar_pedido_page.dart
@@ -57,7 +57,7 @@ La V1 corresponde al **primer prototipo funcional**, usado como base para contin
 - Dart  
 - Material Design  
 - Navegación básica (Navigator)  
-
+```
 ---
 
 ## 🚀 Instalación y Ejecución
@@ -66,5 +66,3 @@ La V1 corresponde al **primer prototipo funcional**, usado como base para contin
 ```bash
 git clone https://github.com/AlejandroDart/ComidaPleaseV1.git
 cd ComidaPleaseV1
-
-
