@@ -74,7 +74,7 @@ En V2 el tema oscuro se guarda en memoria mediante `SharedPreferences`.
 
 ## 📂 Estructura del Proyecto (V2)
 
-´´´
+```
 /lib
 ├── pages/
 │ ├── login_page.dart
@@ -86,7 +86,7 @@ En V2 el tema oscuro se guarda en memoria mediante `SharedPreferences`.
 │ ├── colors.dart
 │ └── config.dart
 └── main.dart
-´´´
+```
 
 ---
 
