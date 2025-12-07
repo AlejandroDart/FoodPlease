@@ -46,15 +46,14 @@ Este repositorio corresponde a la **versión V1/V2** del proyecto académico des
 ```
 ├── lib/
 │ ├── pages/
-│ │ ├── login_page.dart
-│ │ ├── pedido_page.dart
 │ │ ├── editar_pedido_page.dart
 │ │ ├── lista_pedidos_page.dart
-│ │ └── mi_dinero_page.dart
+│ │ ├── login_page.dart
+│ │ ├── mi_dinero_page.dart
+│ │ └── pedido_page.dart
 │ ├── utils/
 │ │ ├── colors.dart
 │ │ └── config.dart
-│ └── main.dart
 │
 ├── backend/
 │ ├── api_foodplease.py
