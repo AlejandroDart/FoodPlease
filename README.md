@@ -43,7 +43,7 @@ Este repositorio corresponde a la **versión V1/V2** del proyecto académico des
 ---
 
 ## 📂 Estructura del Proyecto
-
+```
 ├── lib/
 │ ├── pages/
 │ │ ├── login_page.dart
@@ -62,4 +62,6 @@ Este repositorio corresponde a la **versión V1/V2** del proyecto académico des
 │
 ├── README.md
 └── pubspec.yaml
+```
+##
 
